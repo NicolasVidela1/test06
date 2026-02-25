@@ -71,6 +71,9 @@ main h1 {
 
 main p {
   margin: 10px 0 20px 0;
+
+  font-family: "Enhanced";
+  font-size: 1.25rem;
 }
 
 .avatar {
