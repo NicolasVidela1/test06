@@ -94,7 +94,7 @@ html, body {
 
 @font-face {
   font-family: "Alte Reg";
-  src: url("../fonts/alte-haas-grotesk/AlteHaasGroteskRegular\(1\).woff2") format("woff2");
+  src: url("../fonts/alte-haas-grotesk/AlteHaasGroteskRegular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
